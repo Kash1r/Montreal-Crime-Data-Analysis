@@ -3,7 +3,7 @@
 This project aims to analyze Crime Data in the **Greater City of Montreal** from **2015 - 2021**.  
 
 
-In this project, I have used a dataset from Kaggle:
+In this project, I have used a dataset from Kaggle.com:
 > - [Kaggle dataset](https://www.kaggle.com/datasets/kalvainhindi/montral-crimes)
 
 _Original dataset (in French) is available on the [Ville de Montreal Données Ouvertes Website.](https://donnees.montreal.ca/)_
